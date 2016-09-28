@@ -7,8 +7,8 @@ This repo contains JSON and TXT Bibles to be served from GitHub pages:
 
 The .txt Bibles are a little smaller than the JSON ones:
 
-[omysoul.github.io/bible/json/kjv.txt](//omysoul.github.io/bible/json/kjv.txt)  
-[omysoul.github.io/bible/json/cuv.txt](//omysoul.github.io/bible/json/cuv.txt)  
+[omysoul.github.io/bible/txt/kjv.txt](//omysoul.github.io/bible/txt/kjv.txt)  
+[omysoul.github.io/bible/txt/cuv.txt](//omysoul.github.io/bible/txt/cuv.txt)  
 
 This is the codec used to translate between JSON and txt formats:
 
