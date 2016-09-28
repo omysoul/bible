@@ -12,6 +12,10 @@ The .txt Bibles are a little smaller than the JSON ones:
 
 This is the codec used to translate between JSON and txt formats:
 
+```bash
+npm i -D @omysoul/bible-codec
+```
+
 ```javascript
 export const encode = (bible) =>
   bible.map(book =>
