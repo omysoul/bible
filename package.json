@@ -1,0 +1,25 @@
+{
+  "name": "bibles",
+  "version": "1.0.0",
+  "description": "This repo contains JSON and TXT Bibles to be served from GitHub pages:",
+  "main": "compress.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omysoul/bible.git"
+  },
+  "author": "phil holden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omysoul/bible/issues"
+  },
+  "homepage": "https://github.com/omysoul/bible#readme",
+  "dependencies": {
+    "@omysoul/bible-codec": "^1.0.15"
+  }
+}
